@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<button onclick="document.getElementById('myImage').src='background.jpg'">keyboard pic</button>
+
+<img id="myImage" src="background.jpg" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='mou.jpeg'">mou </button>
+
+
+<button onclick="document.getElementById('myImage').src='010.jpg'">free </button>
+
+
+</body>
+</html>
